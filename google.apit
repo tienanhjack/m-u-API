@@ -1,0 +1,20 @@
+{
+  "method": "get",
+  "backup": {
+    "bodyType": "none",
+    "data": {}
+  },
+  "headers": {},
+  "headersArray": [
+    [
+      "151222ce-7227-4711-abea-e41aeeadb4c8",
+      "Content-Type",
+      "multipart/form-data",
+      true,
+      "STRING"
+    ]
+  ],
+  "url": "hello.html",
+  "params": {},
+  "paramsArray": []
+}
